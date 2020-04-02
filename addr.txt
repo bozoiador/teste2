@@ -1,0 +1,24 @@
+// Exe Name
+Exe:game.exe
+
+//Basic Addresses
+HpAddr:00E4CAF4
+SpAddr:00E4CAFC
+MaxHpAddr:00E4CAF8
+MaxSpAddr:00E4CB00
+
+//Opt Addresses
+StatusAddr:00E48B1C
+Opt2Addr:00E48B18
+Opt3Addr:00E48B20
+StatusSearch:00E4CF68
+
+// Misc
+CursorPosX:00BDB5A4
+CursorPosY:00BDB5A8
+DestX:00E34D0C
+DestY:00E34D10
+Name:00E4D768
+Weight:00E492C8
+MaxWeight:00E492BC
+OpenSock:008A5EAA
