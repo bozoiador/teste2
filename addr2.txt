@@ -2,9 +2,9 @@
 Exe:game.exe
 
 //Basic Addresses
-HpAddr:00E73D3C
+HpAddr:010DCE10
 SpAddr:010DCE18
-MaxHpAddr:00E73D40
+MaxHpAddr:010DCE14
 MaxSpAddr:010DCE1C
 
 //Opt Addresses
